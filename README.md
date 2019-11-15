@@ -1,5 +1,5 @@
 # Automatic Gatling
-## Automate the website load testing with configurable Website main URL, users, context URLs and response time less than 5secs.
+**Automate the website load testing with configurable Website main URL, users, context URLs and response time less than 5secs.**
 
 Running the Recorder: Simply launch the Recorder class in your IDE Or using Command Prompt
 **“mvn gatling:recorder”**
